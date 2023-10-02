@@ -4,15 +4,15 @@ This repository is for the young developers to contribute in Hacktoberfest 2023.
 ## To participate, visit: https://hacktoberfest.com/participation/
 
 
-## INSTRUCTIONS - Get Ready for the Adventure 🧭
+## INSTRUCTIONS - Get Ready for the Adventure 
 
 - Fork this Repository using the button at the top on right corner.
 
-  ![img_fork_1](https://github.com/Ananyasingh2002/Hacktoberfest2023/assets/90714878/bcb92dfb-0c7f-4f6f-976c-05acbfdcd3f2)
+  ![img_fork_1](https://github.com/DeveloperStudentClubSmvdu/Hacktober-2023/blob/main/sc/2.png)
 
 - Clone your forked repository to your pc `git clone https://github.com/Ananyasingh2002/Hacktoberfest2023.git`
 
-  ![clone_2](https://github.com/Ananyasingh2002/Hacktoberfest2023/assets/90714878/a61a60a1-7c42-484d-a38c-03db0e372aa0)
+  ![clone_2](https://github.com/DeveloperStudentClubSmvdu/Hacktober-2023/blob/main/sc/1.png)
 
 - Carve your own path with a new branch (name this branch as your entry number) for your modifications (ie. `git branch entry-no` and check it out `git checkout entry-no` or simply do `git checkout -b entry-no`)
 
