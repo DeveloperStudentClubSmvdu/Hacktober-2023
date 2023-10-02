@@ -1,7 +1,8 @@
 # Hacktober-2023
-This repository is for the young developers to contribute in Hacktoberfest 2023.
+This repository is for young developers to contribute to Hacktoberfest 2023.
 
-## To participate, visit: https://hacktoberfest.com/participation/
+# To participate
+visit: https://hacktoberfest.com/participation/
 
 
 ## INSTRUCTIONS - Get Ready for the Adventure 
@@ -34,21 +35,24 @@ This repository is for the young developers to contribute in Hacktoberfest 2023.
 
 - Celebrate - you've done your first pull request!!
 
-- ## 4. Here is a quick reference guide for GitHub: [GitHub Guide](https://github.com/git-guides)
-
-
-- Aim to make more than 4 pull requests.
-- Imagine you've only made 4 pull requests to different projects, but one of those projects isn't part of the Hacktoberfest event.
-- In that case, your pull request won't be counted, leaving you with just 3 valid ones if those projects aren't excluded either.
-- To ensure your success, I recommend making a pull request to your own repo, as long as it has the Hacktoberfest topic.
+## Here is a quick reference guide for GitHub: [GitHub Guide](https://github.com/git-guides)
 
 
 ## Hactoberfest Guidlines
--Here’s what you need to know to participate and complete Hacktoberfest:
+Here’s what you need to know to participate and complete Hacktoberfest:
 
-- Register anytime between September 26 and October 31.
-- Pull requests can be made in any GitHub or GitLab hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic).
-- Project maintainers must accept your pull/merge requests for them to count toward your total.
-- Participants with four pull/merge requests accepted between October 1 and October 31 will receive a unique digital reward.
+  - Register anytime between September 26 and October 31.
+    
+  - Pull requests can be made in any GitHub or GitLab hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic).
+    
+  - Project maintainers must accept your pull/merge requests for them to count toward your total.
+    
+  - Participants with four pull/merge requests accepted between October 1 and October 31 will receive a unique digital reward.
+    
+  - Aim to make more than 4 pull requests.
+    
+  - Imagine you've only made 4 pull requests to different projects, but one of those projects isn't part of the Hacktoberfest event.
+    
+  - In that case, your pull request won't be counted, leaving you with just 3 valid ones if those projects aren't excluded either.
 
 
