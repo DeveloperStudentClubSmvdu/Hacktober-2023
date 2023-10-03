@@ -11,7 +11,7 @@ body{
 }
 
 .container{
-    background-color: rgb(166, 234, 234);
+    background-color: rgb(166, 234, 176);
     padding: 5px 20px 15px 20px;
     border: 1px solid lightgray;
     border-radius: 4px;
@@ -40,7 +40,7 @@ fieldset{
 
 input[type="button"]
 {
-    background-color: yellow;
+    background-color: pink;
     padding: 12px 20px;
     margin-top: 30px;
     border: none;
