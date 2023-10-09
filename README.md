@@ -52,6 +52,8 @@ Here’s what you need to know to participate and complete Hacktoberfest:
   - Aim to make more than 4 pull requests.
     
   - Imagine you've only made 4 pull requests to different projects, but one of those projects isn't part of the Hacktoberfest event.
+
+  - To cehck if given repositiry is part of hacktober 2023 look for hacktober tag.
     
   - In that case, your pull request won't be counted, leaving you with just 3 valid ones if those projects aren't excluded either.
 
